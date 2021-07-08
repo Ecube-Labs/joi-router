@@ -1,6 +1,6 @@
 {
   "name": "@ecubelabs/koa-joi-router",
-  "version": "6.0.2",
+  "version": "6.0.3",
   "description": "Configurable, input validated routing for koa.",
   "main": "joi-router.js",
   "keywords": [
